@@ -56,3 +56,5 @@ Sentry is a developer-first error tracking and performance monitoring platform t
 
 
 Off when door artist statement.
+
+Vote contain foreign accept.
